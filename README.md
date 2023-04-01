@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a junior at Penn State, majoring in Computer Science.I am passionate about performing mathematically based technical configurations and designs.I am currently working on an AI project for TE Connectivity.
+I am a junior at Penn State, majoring in Computer Science. I am passionate about performing mathematically based technical configurations and designs. I am currently working on an AI project for TE Connectivity.
 
 
 ## 🌐 Socials:
